@@ -70,7 +70,7 @@
 
 	<g class="europa">
 	<a xlink:href="nations/pleasestandby.html"><circle cx="231" cy="63" r="9.25"/> <title>Ísland</title> <text y="65" x="231" class="littleword">IS</text> </a>
-	<a xlink:href="nations/pleasestandby.html"><circle cx="252" cy="84" r="20"/> <title>Ireland</title> <text y="88" x="252" class="word">IR</text> </a>
+	<a xlink:href="nations/pleasestandby.html"><circle cx="252" cy="84" r="20"/> <title>Éire</title> <text y="88" x="252" class="word">IR</text> </a>
 	<a xlink:href="nations/portugal.html"><circle cx="252" cy="252" r="20"/> <title>República Portuguesa</title> <text y="256" x="252" class="word">PT</text> </a>
 	<a xlink:href="nations/ukni.html"><circle cx="294" cy="84" r="20" /> <title>United Kingdom of Great Britain and Northern Ireland</title> <text y="88" x="294" class="word">GB</text> </a>
 	<a xlink:href="nations/pleasestandby.html"><circle cx="294" cy="168" r="20" /> <title>Koninkrijk België </title> <text y="173" x="294" class="word">BE</text> </a>
